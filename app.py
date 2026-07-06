@@ -1,5 +1,5 @@
 # Tarea N°3 - Dashboards en Python
-# Integrantes: Greisy Coronado (8-1031-491), Alejandro Gonzáles ( )
+# Integrantes: Greisy Coronado (8-1031-491), Alejandro Gonzáles (6-726-1036)
 
 
 from dash import Dash, html, dcc, Input, Output, dash_table
